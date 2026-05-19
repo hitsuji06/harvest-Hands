@@ -1,0 +1,40 @@
+========================================
+  HarvestHands — Usuarios de demostración
+========================================
+
+EMPRESAS DE VOLUNTARIADO
+-------------------------
+Email:      empresa1@demo.com
+Contraseña: demo1234
+Nombre:     Verde Esperanza A.C.
+
+Email:      empresa2@demo.com
+Contraseña: demo1234
+Nombre:     Manos Solidarias
+
+VOLUNTARIOS
+-----------
+Email:      vol1@demo.com
+Contraseña: demo1234
+Nombre:     Ana García López
+
+Email:      vol2@demo.com
+Contraseña: demo1234
+Nombre:     Carlos Mendoza Ríos
+
+========================================
+VOLUNTARIADOS PRECARGADOS
+  1. Reforestación Sierra Parral   (Verde Esperanza, 30 cupos)
+  2. Limpieza Río Parral            (Verde Esperanza, 2 cupos — casi lleno)
+  3. Apoyo en Banco de Alimentos    (Manos Solidarias, 20 cupos)
+  4. Taller de Lectura Infantil     (Manos Solidarias, 10 cupos)
+
+CÓMO ABRIR LA VERSIÓN WEB (desde el ZIP)
+-----------------------------------------
+1. Descomprimir harvesthands_web.zip
+2. Abrir terminal en la carpeta descomprimida
+3. Ejecutar: python3 serve_web.py
+4. Abrir: http://localhost:8080
+
+Nota: Python 3 debe estar instalado.
+========================================
